@@ -1,0 +1,2 @@
+# trabajo-grupal-Algoritmo-Curso-B2
+ARREGLOS, CONDICIONALES Y PROCESOS REPETITIVOS
